@@ -1,0 +1,5 @@
+/*
+*WordCounter.hpp
+*
+*
+*/
