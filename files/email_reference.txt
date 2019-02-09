@@ -1,0 +1,29 @@
+Bonjour la Promo 17,
+
+Tout d'abord je vous souhaite une très bonne année 2018, pleine de réussite et une bonne santé.
+
+Je vous envoie ce petit email pour vous signaler qu'il est important d'avoir un environnement de travail qui marche pour le premier jour de cours de POO C++.
+J'insiste là-dessus parce que cela fait partie des recommendations qui m'ont été remontées par les étudiants les années précédentes et c'est malheureusement ce sur quoi je peux le moins agir.
+
+Voici les caractéristiques de mon environnement de développement (qui marche très bien) sur lequel sera basé mes cours, TDs et exercices notés:
+
+* Ubuntu (16.04 LTS ou équivalent: Lubuntu, Xubuntu, ...)
+    - je l'ai installé comme OS par défaut sur ma machine, mais avec VirtualBox ou un dual boot ça devrait être la même chose.
+    - prévoyez un peu de place lors de l'installation pour le système de fichier "/" (Filesystem root). Selon la capacité de votre disque dur, 15 ou 20 Go ou plus ...
+    - prévoyez l'espace swap linux, qui doit être deux fois supérieur à la quantité de mémoire vive (RAM) installée sur votre ordinateur ou VirtualBox.
+
+* Relire aussi vos cours et TDs de Programmation C. 
+
+* Lancez au moins une compilation, suivi d'une exécution pour être sûr d'avoir un environnement C qui marche.
+
+* N'hésitez pas à parcourir mon blog pour quelques tutos C++: http://a-abou.blogspot.fr/
+
+Si vous avez des questions, n’hésitez pas à me les poser par email. Je répondrai dès que possible. 
+
+Bonne semaine et à très vite !
+
+Note: Faites passer le message pour ceux dont l'adresse email usuelle n'est pas celle de cette liste. Merci.
+
+
+-- 
+Ange ABOU
